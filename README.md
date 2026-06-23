@@ -1,2 +1,7 @@
-# qa_guru_homework
-Repository for QA.Guru homework
+# QA_GURU Homeworks
+
+## Описание
+*Проект для сдачи домашних заданий на курсе*
+
+
+
