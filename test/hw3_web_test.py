@@ -14,14 +14,14 @@ def driver():
 
     driver.quit()
 
-
+#Google
 def test_google_web(driver):
     url = "https://www.google.com/"
     driver.get(url)
     assert driver.title == "Google"
     assert driver.current_url == url
 
-
+#Github
 def test_github_web(driver):
     url = "https://github.com/"
     driver.get(url)
