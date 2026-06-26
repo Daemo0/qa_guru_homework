@@ -1,4 +1,2 @@
-def print_hi(name)
+def print_hi(name):
     print(f'Hi, {name}!')
-
-#Добавила примечание
